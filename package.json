@@ -11,8 +11,12 @@
     "start": "./index.js"
   },
   "keywords": [],
-  "author": "Benjamin <benjamin.marguin@makina-corpus.com>",
+  "author": "mab <git@ma-b.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github:mabhub/gamelle"
+  },
   "dependencies": {
     "jsdom": "~13.2.0",
     "node-fetch": "~2.3.0"
