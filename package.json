@@ -1,0 +1,20 @@
+{
+  "name": "gamelle",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gamelle": "./index.js"
+  },
+  "scripts": {
+    "version": "git changelog -t $npm_package_version && git add CHANGELOG.md",
+    "start": "./index.js"
+  },
+  "keywords": [],
+  "author": "Benjamin <benjamin.marguin@makina-corpus.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "~13.2.0",
+    "node-fetch": "~2.3.0"
+  }
+}
