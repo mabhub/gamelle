@@ -18,7 +18,8 @@
     "url": "github:mabhub/gamelle"
   },
   "dependencies": {
-    "jsdom": "~13.2.0",
-    "node-fetch": "~2.3.0"
+    "node-fetch": "~2.3.0",
+    "xmldom": "~0.1.27",
+    "xpath": "0.0.27"
   }
 }
